@@ -1,5 +1,4 @@
-# BEST VPN Landing page
-- https://bestvpncorp.github.io/best-web/
-- https://bestvpncorp.github.io/best-web/setup
-- https://bestvpncorp.github.io/best-web/tips
-- https://bestvpncorp.github.io/best-web/policy
+# DOCTORNET VPN Landing page
+- https://doctornet-vpn.github.io/doctornet-web/
+- https://doctornet-vpn.github.io/doctornet-web/setup
+- https://doctornet-vpn.github.io/doctornet-web/policy
